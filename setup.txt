@@ -1,0 +1,8 @@
+pandas
+datatime
+selenium
+pandas_profiling
+numpy
+matplotlib
+sklearn
+transformers
