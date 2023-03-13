@@ -1,4 +1,4 @@
-# SoundCloud Data Crawling 
+# SoundCloud Data Crawling and Mining
 ## Introduction
 Data crawling from various web sources is a step in the data crawling process. Data crawling closely resembles the processes used by the top search engines. Data crawling, to put it simply, is a technique for locating web links and gathering information from them.
 ## Set Up
